@@ -10,7 +10,6 @@ Fluxo:
   - Alice assina o a transação utilizando a passphrase
 - (opcionamente o lojista pode tambem imprimir a proxima identidade (QR, pub key) 
 
-Como funcionaria se o dinheiro fosse BTC?
 
 
 
