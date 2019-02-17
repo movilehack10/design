@@ -1,16 +1,18 @@
 ## Como melhorar digital wallets?
 
-Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos...
+Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos.
+
+Mas perdem para cartão (plástico) e dinheiro em alguns aspectos.
 
 ---
 
-## Mas ainda perdem para cartões (plástico) em alguns aspectos:
+## Plástico:
 - offline
 - acesso (gente com celulares fracos, desbancarizados com cartao prepago)
 
 ---
 
-## E ainda perdem pro dinheiro vivo em alguns aspectos:
+## Papel-moeda:
 - realmente offline
 - fungível
 - privacidade
