@@ -24,6 +24,12 @@ Mas ainda perdem para cartão (plástico) e dinheiro em alguns aspectos.
 
 ## Cartão:
 - offline
+- acesso
+
+---
+
+## Cartão:
+- offline
   - o usuário não precisa de celular ou internet
 - acesso
   - debito pré-pago alcança desbancarizados
@@ -33,6 +39,14 @@ Mas ainda perdem para cartão (plástico) e dinheiro em alguns aspectos.
 ## Papel-moeda:
 - realmente offline
 - privacidade
+
+---
+
+## Papel-moeda:
+- realmente offline
+  - nem o vendedor nem o comprador precisam estar online
+- privacidade
+  - os dados pessoais do comprador não são monitorados
 
 ---
 
