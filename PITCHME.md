@@ -54,6 +54,15 @@ digital wallets tivessem a funcionalidade de....
 <img src="noun_voucher_1162068.png" style="border:none; width:50%" />
 
 ---
+## Voucher offline
+- um QR code que o pagador mostra
+- autoriza o débito de pequenas quantias (até R$50)
+  - mediante senha (opcional)
+- é um GIF
+  - pode ser impresso, enviado por chat, exibido na tela
+- quem lê é quem recebe, não quem paga
+
+---
 
 
 ## Casos de uso
