@@ -63,21 +63,16 @@ digital wallets tivessem a funcionalidade de....
 - Pessoa quer sair de casa sem celular
 - Pessoa quer transferir saldo para pessoas que não possuem a app
 
----
-
-<!--
+Note:
 ## Wallets de hoje
 
 ![googlepay](google-pay-app.png)
 
----
 ## Wallets de hoje
 
 ![applepay](Apple-PayJPG.jpg)
 
 ---
-
--->
 
 ## Demo
 
