@@ -3,6 +3,8 @@ Equipe 10 - Movile HACK
 
 Fevereiro de 2018 - São Carlos
 
+---
+
 ## Como melhorar digital wallets?
 
 Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos.
