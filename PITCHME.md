@@ -51,7 +51,7 @@ digital wallets tivessem a funcionalidade de....
 
 ## Emissão de vouchers!!
 
-![voucher](noun_voucher_1162068.png)
+<img src="noun_voucher_1162068.png" style="border:none; width:50%" />
 <small>voucher by Nugraha Wira Menggala from the Noun Project</small>
 
 ---
@@ -89,6 +89,10 @@ digital wallets tivessem a funcionalidade de....
 
 
 Note:
+![voucher](noun_voucher_1162068.png)
+
+
+
 ## Wallets de hoje
 
 ![googlepay](google-pay-app.png)
