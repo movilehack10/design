@@ -52,7 +52,6 @@ digital wallets tivessem a funcionalidade de....
 ## Emissão de vouchers!!
 
 <img src="noun_voucher_1162068.png" style="border:none; width:50%" />
-<small>voucher by Nugraha Wira Menggala from the Noun Project</small>
 
 ---
 
