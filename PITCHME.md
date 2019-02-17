@@ -2,6 +2,10 @@
 
 Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos.
 
+---
+
+## Como melhorar digital wallets?
+
 Mas perdem para cartão (plástico) e dinheiro em alguns aspectos.
 
 ---
