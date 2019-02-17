@@ -24,15 +24,15 @@ Mas perdem para cartão (plástico) e dinheiro em alguns aspectos.
 
 ## Plástico:
 - offline
-- acesso (gente com celulares fracos, desbancarizados com cartao prepago)
+  - o usuario nao precisa de celular ou internet
+- acesso
+  - debito pré-pago alcança desbancarizados
 
 ---
 
 ## Papel-moeda:
 - realmente offline
-- fungível
 - privacidade
-- flexibilidade (transferir para o filho)
 
 ---
 
