@@ -4,13 +4,13 @@ Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos...
 
 ---
 
-# Mas ainda perdem para cartões (plástico) em alguns aspectos:
+## Mas ainda perdem para cartões (plástico) em alguns aspectos:
 - offline
 - acesso (gente com celulares fracos, desbancarizados com cartao prepago)
 
 ---
 
-# E ainda perdem pro dinheiro vivo em alguns aspectos:
+## E ainda perdem pro dinheiro vivo em alguns aspectos:
 - realmente offline
 - fungível
 - privacidade
@@ -18,13 +18,13 @@ Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos...
 
 ---
 
-# Como melhorar digital wallets?
+## Como melhorar digital wallets?
 
 Andando em qualquer direção que tornem as areas deficientes melhores.
 
 ---
 
-# Hackathon
+## Hackathon
 
 Para este hackathon, nossa equipe pensou em alguns destes pontos que poderiam ser melhorados se as 
 digital wallets tivessem a funcionalidade de....
@@ -35,7 +35,7 @@ digital wallets tivessem a funcionalidade de....
 
 ---
 
-# Casos de uso
+## Casos de uso
 
 - Pai quer pagar a merenda do filho
 - Pessoa quer sair de casa sem celular
@@ -44,13 +44,12 @@ digital wallets tivessem a funcionalidade de....
 
 ---
 
-# Demo
+## Demo
 
 ---
 
-# Desafios
+## Desafios / Perguntas
 
 ---
 
-# Perguntas
-
+## Obrigado
