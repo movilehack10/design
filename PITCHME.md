@@ -1,3 +1,10 @@
+# Quero Code
+Equipe 10 - Movile HACK 
+
+Fevereiro de 2018 - São Carlos
+
+---
+
 ## Como melhorar digital wallets?
 
 Digital wallets sao bacanas, nos ajudam a pagar comida, controlar os gastos.
@@ -44,6 +51,7 @@ digital wallets tivessem a funcionalidade de....
 
 ---
 
+
 ## Casos de uso
 
 - Pai quer pagar a merenda do filho
@@ -53,7 +61,25 @@ digital wallets tivessem a funcionalidade de....
 
 ---
 
+## Wallets de hoje
+
+![googlepay](google-pay-app.png)
+
+---
+## Wallets de hoje
+
+![applepay](Apple-PayJPG.jpg)
+---
+
 ## Demo
+
+---
+
+## Modelo de negócio
+
+- cobrar taxas
+- vender serviços adicionais
+   - fluxo de caixa para varejo
 
 ---
 
