@@ -81,6 +81,8 @@ digital wallets tivessem a funcionalidade de....
 - vender serviços adicionais
    - fluxo de caixa para varejo
 
+---
+
 ## Desafios / Perguntas
 
 ---
