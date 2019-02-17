@@ -44,6 +44,7 @@ digital wallets tivessem a funcionalidade de....
 
 ---
 
+
 ## Casos de uso
 
 - Pai quer pagar a merenda do filho
@@ -51,6 +52,16 @@ digital wallets tivessem a funcionalidade de....
 - Pessoa quer transferir saldo para pessoas que nao tem a app instalada
 - Quermesse quer ter fichas mais modernas?
 
+---
+
+## Wallets de hoje
+
+![googlepay](google-pay-app.png)
+
+---
+## Wallets de hoje
+
+![applepay](Apple-PayJPG.jpg)
 ---
 
 ## Demo
