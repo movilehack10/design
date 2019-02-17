@@ -22,9 +22,9 @@ Mas ainda perdem para cartão (plástico) e dinheiro em alguns aspectos.
 
 ---
 
-## Plástico:
+## Cartão:
 - offline
-  - o usuario nao precisa de celular ou internet
+  - o usuário não precisa de celular ou internet
 - acesso
   - debito pré-pago alcança desbancarizados
 
